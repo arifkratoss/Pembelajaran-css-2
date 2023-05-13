@@ -1,0 +1,33 @@
+kegunnaan css 3:
+{-membuat website menjadi lebi fleksibel
+ -membuat mock-up dengan cepat tanpa bantuan bahasa scripting
+ -mengurangi penggunaan gambar=kecepatan load halaman
+ -peggunaan selector untuk meghindari pengguna markup 
+  yang boros}
+Cara menggunaka border radius {
+    border-radius=untuk semua sisi
+    border-top-right/left=untuk sisi yang atas kanan atau kiri
+    border-bottom-right/left=untuk sisi yang bawah bagian kanan/kiri
+    border-radius=20% 0 20% 0=untuk meggunaka keseluruhan tanpa harus mengetik codenya lagi
+}
+opaccity{
+    apabila pembungkusnya suddah transparan maka elemen yang di dalamnya ikut
+    transparan
+}
+rgba{
+    -kita bisa mengasih warna transparan tanpa harus melibatkan div yang ada di dalamnya
+}
+hsla hue-saturation lightness alpha{
+    -sama saja untuk menentukan warna p
+    -cara mengasih hsla
+}
+.box-shadow{
+    -properti yang harus di dugunakan<x-offset><y-offset><blur><color>
+    -x-offset=adalah mengatur secara horizontal,apabila di kasih minus akan bergerak ke kiri
+    -y-offset=adalah jarak bayangan secara vertical
+    -blur=seberapa banyak blur yang ingin kita kasih ke bayanagannnya
+    -color=adalah warna yang ingin kita kasih
+    -spread=ukuran dari bayannganya
+    -inset=bayangan di dalam kotak
+    -multiple-shadow=kita bisa memebrikan lebih dari satu bayangan kepada satu elemen
+}
