@@ -38,3 +38,6 @@ hsla hue-saturation lightness alpha{
     -<blur>seberapa banyak blur yang ingin kita kasih ke bayanagannnya
     -<color>adalah warna yang ingin kita kasih
 }
+.Linear Gradient{
+    Bukan termasuk property css3 melainkan value untuk background
+}
