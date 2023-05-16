@@ -31,3 +31,10 @@ hsla hue-saturation lightness alpha{
     -inset=bayangan di dalam kotak
     -multiple-shadow=kita bisa memebrikan lebih dari satu bayangan kepada satu elemen
 }
+.text-shadow{
+    -properti yang di gunakan di dalam text shadow
+    -<x-offset>adalah mengatur secara horizontal,apabila di kasih minus akan bergerak ke kiri
+    -<y-offset>adalah jarak bayangan secara vertical
+    -<blur>seberapa banyak blur yang ingin kita kasih ke bayanagannnya
+    -<color>adalah warna yang ingin kita kasih
+}
